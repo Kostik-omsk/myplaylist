@@ -1,6 +1,6 @@
 # .
 
-The Net Ninja training project
+
 
 backend firebase v9+
 
